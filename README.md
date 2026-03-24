@@ -13,7 +13,7 @@ Experience contributing to systems used by organizations like **Goldman Sachs, N
 - Design scalable **.NET / ASP.NET Core architectures**
 - Build **REST APIs, integrations, and microservices**
 - Implement **enterprise authentication** (Entra ID, Azure AD, SAML, OIDC)
-- Develop **AI-powered applications** (OpenAI, ML.NET, Python-based tools)
+- Develop **AI-powered applications** (OpenAI, Azure Cognitive Services, RAG, Semantic Search, ML.NET, Python-based tools)
 - Architect **cloud-native solutions (Azure & AWS)**
 - Optimize **SQL Server performance & large datasets**
 - Build **full-stack apps** using React & Angular
