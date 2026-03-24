@@ -71,7 +71,6 @@ Convert PDF documents into spoken audiobooks using offline text-to-speech.
 
 **Tech:** Python, pypdf, pyttsx3  
 
-🔗 https://github.com/muhammad-2908/text-to-voice
 
 ---
 
@@ -94,12 +93,6 @@ IT service management platform
 - Designed **multi-tenant SaaS systems**
 - Integrated **Azure AD, Google Workspace, Office 365**
 - Developed **cloud-native microservices on Azure**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ---
 
