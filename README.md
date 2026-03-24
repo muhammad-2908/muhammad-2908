@@ -1,120 +1,142 @@
-<h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">Senior Full Stack .NET Developer | Cloud | AI | SaaS Architect</h3>
+# Hi, I'm Muhammad Usman 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=.NET+Developer;Azure+Cloud+Engineer;AI+Enthusiast;SaaS+Builder;Microservices+Architect&center=true&width=500&height=45">
-</p>
+### Senior Full Stack .NET Developer | Cloud | AI | SaaS Architect
 
----
+I’m a **Senior Software Engineer with 7+ years of experience** building scalable enterprise applications, SaaS platforms, and cloud-native systems using **.NET, Azure, and modern frontend frameworks**.
 
-## 🚀 About Me
-
-💼 Senior Software Engineer with **7+ years of experience**  
-🏗 Building **scalable SaaS platforms & enterprise systems**  
-🤖 Passionate about **AI, automation, and cloud-native solutions**  
-🌍 Worked on systems used by **Goldman Sachs, NVIDIA, Disney, LinkedIn, Alaska Airlines**
+I specialize in **backend architecture, identity systems, and AI-powered applications**, with hands-on experience delivering solutions used by organizations like **Goldman Sachs, NVIDIA, Disney, LinkedIn, and Alaska Airlines**.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I Do
 
-### 👨‍💻 Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![EF Core](https://img.shields.io/badge/EF%20Core-6DB33F?style=for-the-badge)
+- Design and build **scalable .NET / ASP.NET Core systems**
+- Develop **high-performance REST APIs & microservices**
+- Implement **enterprise authentication & identity systems** (Entra ID, Azure AD, SAML, OIDC)
+- Build **AI-powered applications** using OpenAI, ML.NET & Azure AI
+- Architect **cloud-native solutions on Azure & AWS**
+- Optimize **SQL Server performance & large-scale data systems**
+- Develop **full-stack applications** using React & Angular
+
+---
+
+## 🧠 Core Skills
+
+### 🖥 Backend
+- .NET 8 / ASP.NET Core  
+- C#  
+- Entity Framework Core  
+- REST APIs & Microservices  
+- Background Services / Worker Services  
+- LINQ  
 
 ### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+- Microsoft Azure (App Services, Functions, Service Bus, Blob Storage)  
+- Azure DevOps (CI/CD Pipelines)  
+- AWS (S3, SQS, Elastic Beanstalk)  
+- Docker  
 
 ### 🔐 Identity & Security
-![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge)
-![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge)
-![OIDC](https://img.shields.io/badge/OIDC-3C3C3C?style=for-the-badge)
-![SAML](https://img.shields.io/badge/SAML-FF6F00?style=for-the-badge)
+- Microsoft Entra ID / Azure AD  
+- SAML 2.0  
+- OpenID Connect (OIDC)  
+- OAuth 2.0  
+- JWT Authentication  
+
+### 🤖 AI & Advanced Tech
+- OpenAI (GPT-4, Embeddings)  
+- Azure Cognitive Services  
+- ML.NET  
+- Semantic Search / Vector Embeddings  
+
+### 🗄 Databases
+- SQL Server (Optimization, Indexing, Stored Procedures)  
+- PostgreSQL  
+- MongoDB  
+- Elasticsearch  
+- Redis  
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
-### 🤖 AI & Data
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector%20Search-000000?style=for-the-badge)
+- React  
+- Angular  
+- TypeScript / JavaScript  
 
 ---
 
 ## 🏗 Featured Projects
 
 ### 🔹 SyncBase – Financial Data Sync Platform
-💡 Multi-tenant SaaS platform for financial data synchronization  
-⚙️ **.NET 8 | React | SQL Server | OpenAI**
+> Multi-tenant SaaS platform for financial data synchronization  
+**Tech:** .NET 8, ASP.NET Core, React, SQL Server, OpenAI APIs  
 
 ---
 
 ### 🔹 AI Smart Meeting Assistant
-💡 Transcribes meetings + extracts action items + semantic search  
-⚙️ **Azure OpenAI | ML.NET | Cognitive Services | .NET**
+> Transcribes meetings, extracts action items, and enables semantic search  
+**Tech:** Azure OpenAI, Cognitive Services, ML.NET, .NET Core  
 
 ---
 
-### 🔹 Netwrix Directory Manager
-💡 Identity governance & automation platform  
-⚙️ **.NET | Entra ID | SCIM | LDAP**
+### 🔹 Netwrix Directory Manager (NDM)
+> Enterprise identity governance and automation system  
+**Tech:** .NET, Entra ID, SCIM, LDAP  
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+### 🔹 Cira HelpDesk
+> IT service management and ticketing system  
+**Tech:** .NET Core, Angular, SQL Server  
 
 ---
 
-## 🧩 Experience Snapshot
-
-✔ Built **AI-powered meeting assistant using LLMs**  
-✔ Migrated legacy apps to **.NET 8 & Angular 18**  
-✔ Designed **multi-tenant SaaS architectures**  
-✔ Integrated **Azure AD, Google Workspace, Office 365**  
-✔ Built **cloud-native microservices on Azure & AWS**
+### 🔹 Smart Factory Monitor
+> Real-time industrial monitoring system  
+**Tech:** .NET, WCF, Angular, RabbitMQ  
 
 ---
 
-## 🌐 Connect With Me
+## 🧩 Professional Experience Highlights
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-usman-056b16142/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:muhammad_2908@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+- **Senior Software Engineer @ Netwrix**
+  - Built **AI-powered meeting assistant with LLMs**
+  - Led migration from **.NET Framework → .NET 8 & Angular 18**
+  - Designed **cloud-integrated microservices on Azure**
+  - Implemented **multi-tenant SaaS architecture**
+  - Integrated **Azure AD, Google Workspace, Office 365**
 
----
+- **Software Engineer @ Imanami**
+  - Developed **identity governance & provisioning systems**
+  - Built scalable integrations with **LDAP, Entra ID, O365**
 
-## 💼 Open To
-
-🚀 Freelance Projects  
-💼 Full-time Remote Roles  
-🤝 AI + Cloud + SaaS Collaborations  
+- **Full Stack Developer @ EndShift**
+  - Delivered multiple **full-stack SaaS applications**
+  - Built **Helpdesk system, scrapers, and data platforms**
 
 ---
 
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
-</p>
+## ⚙️ Engineering Practices
+
+- SOLID Principles & Design Patterns  
+- Clean Architecture & Domain-Driven Design  
+- Performance Optimization  
+- Secure Coding (XSS, Injection, Encryption)  
+- Agile Development  
+
+---
+
+## 🌍 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-usman-056b16142/
+- 📧 Email: muhammad_2908@hotmail.com  
+
+---
+
+## 💡 Open To
+
+- Full-time remote opportunities  
+- Freelance / consulting projects  
+- AI + Cloud + SaaS product development  
+
+---
+
+⭐ *If you're building something interesting in .NET, AI, or Cloud — let's collaborate!*
