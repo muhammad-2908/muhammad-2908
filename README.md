@@ -98,7 +98,7 @@ IT service management platform
 
 ## 🌍 Connect
 
-- LinkedIn: https://www.linkedin.com/in/muhammad-usman-056b16142/  
+- LinkedIn: https://www.linkedin.com/in/usman2908/
 - Email: muhammad_2908@hotmail.com  
 
 ---
